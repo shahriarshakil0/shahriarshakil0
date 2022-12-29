@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Md. Shahriar Shakil</h1>
-<h3 align="center">A passionate machine learning developer</h3>
+<h1>Hi 👋, I'm Md. Shahriar Shakil</h1>
+<h3>A passionate machine learning developer</h3>
+<p>I have both academic and industrial professional experiences. Previously, I worked as a teaching assistant at Daffodil International University and machine learning trainee programmer at Expert Consortium Ltd. With my theoretical knowledge and practical experience, I want to build my career in this competitive world. I also contribute my personal and professional skills to develop and give dedication to achieving the best goal of a organization. <p/>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/shahriarshakil](https://sites.google.com/diu.edu.bd/shahriarshakil)
 
