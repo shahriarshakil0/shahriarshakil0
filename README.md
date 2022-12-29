@@ -2,13 +2,13 @@
 <h3>A passionate machine learning developer</h3>
 <p>I have both academic and industrial professional experiences. Previously, I worked as a teaching assistant at Daffodil International University and machine learning trainee programmer at Expert Consortium Ltd. With my theoretical knowledge and practical experience, I want to build my career in this competitive world. I also contribute my personal and professional skills to develop and give dedication to achieving the best goal of a organization. <p/>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/shahriarshakil](https://sites.google.com/diu.edu.bd/shahriarshakil)
-
 - 💬 Ask me about **Python, Flask, Django, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **shahriarshakil14@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1txTnqgU2JGulNS0ZQWmAEu0ZFjc6ZE0N/view?usp=sharing](https://drive.google.com/file/d/1txTnqgU2JGulNS0ZQWmAEu0ZFjc6ZE0N/view?usp=sharing)
+
+- - 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/shahriarshakil](https://sites.google.com/diu.edu.bd/shahriarshakil)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
