@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1txTnqgU2JGulNS0ZQWmAEu0ZFjc6ZE0N/view?usp=sharing](https://drive.google.com/file/d/1txTnqgU2JGulNS0ZQWmAEu0ZFjc6ZE0N/view?usp=sharing)
 
-- - 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/shahriarshakil](https://sites.google.com/diu.edu.bd/shahriarshakil)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/shahriarshakil](https://sites.google.com/diu.edu.bd/shahriarshakil)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
