@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Md. Shahriar Shakil</h1>
 <h3>A passionate machine learning developer</h3>
-<p>I have both academic and industrial professional experiences. Previously, I worked as a Teaching Apprentice Fellow at Daffodil International University and Machine Learning Trainee Programmer at Expert Consortium Ltd. With my theoretical knowledge and practical experience, I want to build my career in this competitive world. I also contribute my personal and professional skills to develop and give dedication to achieving the best goal of an organization. <p/>
+<p>I have both academic and industrial professional experiences. Currently, I am working as a Lecturer in CSE at Daffodil International University. Previously, I worked as a Teaching Apprentice Fellow at Daffodil International University and Machine Learning Trainee Programmer at Expert Consortium Ltd. With my theoretical knowledge and practical experience, I want to build my career in this competitive world. I also contribute my personal and professional skills to develop and give dedication to achieving the best goal of an organization. <p/>
 
 - 💬 Ask me about **Python, Flask, Django, Machine Learning, Deep Learning**
 
