@@ -8,8 +8,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1txTnqgU2JGulNS0ZQWmAEu0ZFjc6ZE0N/view?usp=sharing](https://drive.google.com/file/d/1txTnqgU2JGulNS0ZQWmAEu0ZFjc6ZE0N/view?usp=sharing)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/shahriarshakil](https://sites.google.com/diu.edu.bd/shahriarshakil)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shahriarshakil0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriarshakil0/" height="30" width="40" /></a>
